@@ -1,0 +1,36 @@
+_repo: The-Natural-History-of-ChocolateBeing-a-Distinct-and-Particular-Account-of-the-Cocoa-Tree-its__24588
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brookes, R. (Richard), active 1721-1763
+    gutenberg_agent_id: '26603'
+    url: http://www.gutenberg.org/2009/agents/26603
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quélus, D.
+    alias: Quelus, D.
+    gutenberg_agent_id: '26599'
+    url: http://www.gutenberg.org/2009/agents/26599
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2008-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Cacao -- Early works to 1800'
+- !lcsh 'Chocolate -- Early works to 1800'
+- !lcc 'QK'
+title: 'The Natural History of Chocolate
+
+  Being a Distinct and Particular Account of the Cocoa-Tree, its Growth and Culture,
+  and the Preparation, Excellent Properties, and Medicinal Vertues of its Fruit'
+url: http://www.gutenberg.org/ebooks/24588
