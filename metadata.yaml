@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '26599'
     url: http://www.gutenberg.org/2009/agents/26599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24588#The-Natural-History-of-ChocolateBeing-a-Distinct-and-Particular-Account-of-the-Cocoa-Tree-its_
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2008-02-12'
 gutenberg_type: Text
